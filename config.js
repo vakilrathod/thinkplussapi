@@ -2,7 +2,7 @@ var config = {
 	debug: false,
 	database: {
 	    connectionLimit: 500,
-	    host: "193.203.184.241",
+	    host: "srv1086.hstgr.io",
 	    user: "u303845834_thinkplussapi",
 	    password: "VAKILr@6762",
 	    database: "u303845834_thinkplussapi",
